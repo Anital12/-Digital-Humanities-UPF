@@ -5,7 +5,7 @@
 * Celine Kerfant, Cel31, archaeobotany
 
 ### Add your Name, GitHub Name, Discipline
-*Anita Licata, Anital12, Humanities
+*Anita Licata, Anital12, Humanities 
 *
 *
 *
